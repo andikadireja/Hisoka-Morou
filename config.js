@@ -1,5 +1,5 @@
 /**
-   * Create By Dika Ardnt.
+   * Create By Dika MD.
    * Contact Me on wa.me/6288292024190
    * Follow https://github.com/DikaArdnt
 */
@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285822347348','6285822347348','6285822347348']
+global.owner = ['6285770575380','6285770575380','6285770575380']
 global.premium = ['6285822347348']
 global.packname = 'Sticker by'
 global.author = 'ArullOfc'
